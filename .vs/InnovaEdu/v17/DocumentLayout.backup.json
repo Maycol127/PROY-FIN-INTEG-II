@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegiodata\\implementacion\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|solutionrelative:colegiodata\\implementacion\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegiodata\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D324AB-EC72-4F61-8FFA-093357BC59EE}|ColegioData\\ColegioData.csproj|solutionrelative:colegiodata\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|d:\\program files\\visual studio 2022\\repos\\innovaedu\\colegioweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FF5F6B4-382B-40B5-8233-9A8F17C551FA}|ColegioWeb\\ColegioWeb.csproj|solutionrelative:colegioweb\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "ColegioData\\Contrato\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:39:00.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ColegioWeb\\Controllers\\AccesoController.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ColegioWeb\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:35:57.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ColegioWeb\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioWeb\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ColegioWeb\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:13:19.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "ToolTip": "D:\\Program Files\\Visual Studio 2022\\repos\\InnovaEdu\\ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "ColegioData\\Implementacion\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAA6wJYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:46:45.309Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
